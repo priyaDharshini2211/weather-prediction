@@ -1,0 +1,17 @@
+Priya Sharma
+Backend Developer | priya.sharma@example.com | Chennai, India
+
+Skills
+Python, Django, FastAPI, PostgreSQL, Redis, Docker, REST APIs, Git, React (basic)
+
+Education
+B.E. Computer Science and Engineering, Anna University, Chennai - 2021 (CGPA 8.4)
+
+Projects
+Hospital Billing System - Django REST + PostgreSQL; integrated Razorpay payments and JWT authentication.
+Weather Insights Bot - LangGraph agent that answers weather questions with charts using Open-Meteo.
+
+Experience
+Software Engineer, Acme Technologies, Chennai - Jul 2021 to Present
+Built and maintained payment microservices in Django, reduced API latency by 35% using Redis caching.
+Intern, Zoho Corp - Jan 2021 to Jun 2021. Worked on internal reporting tools.

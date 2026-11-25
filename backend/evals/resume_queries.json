@@ -1,0 +1,28 @@
+{
+  "queries": [
+    {"q": "Which database technologies has he worked with?", "expect": "PostgreSQL, MongoDB", "tag": "paraphrase"},
+    {"q": "Does he have any cloud experience?", "expect": "AWS (EC2", "tag": "paraphrase"},
+    {"q": "Where did he go to university for his master's?", "expect": "Indian Institute of Technology Madras", "tag": "paraphrase"},
+    {"q": "What was his final grade in the postgraduate degree?", "expect": "CGPA 8.9", "tag": "paraphrase"},
+    {"q": "How many people did he manage?", "expect": "team of 5 engineers", "tag": "paraphrase"},
+    {"q": "What professional credentials does he hold?", "expect": "AWS Certified Developer", "tag": "paraphrase"},
+    {"q": "Has he made anything open source?", "expect": "Rate Limiter", "tag": "paraphrase"},
+    {"q": "Which companies has he worked at?", "expect": "Finlytics", "tag": "paraphrase"},
+    {"q": "Has he built any mobile apps?", "expect": "Flutter", "tag": "paraphrase"},
+    {"q": "Did he win any competitions?", "expect": "Smart India Hackathon", "tag": "paraphrase"},
+    {"q": "Has he given any talks at conferences?", "expect": "PyCon India", "tag": "paraphrase"},
+    {"q": "How did he speed up the API?", "expect": "p95 API latency by 40%", "tag": "paraphrase"},
+    {"q": "What did he do during his internship?", "expect": "Freshworks", "tag": "paraphrase"},
+    {"q": "Which tools does he use to test code?", "expect": "pytest, unittest", "tag": "paraphrase"},
+    {"q": "What did he build with LangGraph?", "expect": "Smart Inventory Assistant", "tag": "exact"},
+    {"q": "Is C++ listed among his languages?", "expect": "C++", "tag": "exact"},
+    {"q": "Terraform", "expect": "Terraform", "tag": "exact"},
+    {"q": "How many downloads does the expense app have?", "expect": "10,000 downloads", "tag": "exact"},
+    {"q": "What is his email address?", "expect": "arjun.mehta@example.com", "tag": "exact"},
+    {"q": "How many transactions per day does the settlement platform process?", "expect": "2 million transactions", "tag": "exact"},
+    {"q": "How did he reduce failed payouts?", "expect": "failed payouts by 80%", "tag": "exact"},
+    {"q": "What is the capital of France?", "expect": null, "tag": "negative"},
+    {"q": "How do I bake sourdough bread?", "expect": null, "tag": "negative"},
+    {"q": "zebra quantum", "expect": null, "tag": "negative"}
+  ]
+}

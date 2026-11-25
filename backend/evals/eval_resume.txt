@@ -1,0 +1,44 @@
+Arjun Mehta
+Senior Backend Engineer | arjun.mehta@example.com | Bengaluru, India | github.com/arjunmehta
+
+Summary
+Backend engineer with 7 years of experience designing payment and logistics platforms. Comfortable owning services end to end, from schema design to production on-call.
+
+Technical Skills
+Languages: Python, Go, TypeScript, SQL, C++
+Frameworks: Django, FastAPI, Flask, React
+Databases: PostgreSQL, MongoDB, Redis, Elasticsearch
+Cloud and DevOps: AWS (EC2, S3, Lambda, RDS), Docker, Terraform, GitHub Actions
+Testing: pytest, unittest, Locust load testing
+
+Work Experience
+Senior Software Engineer, Finlytics Pvt Ltd, Bengaluru - Mar 2022 to Present
+Led a team of 5 engineers building the merchant settlement platform processing 2 million transactions a day.
+Reduced p95 API latency by 40% by introducing Redis caching and query batching.
+Designed the idempotent payout pipeline on AWS Lambda and SQS, cutting failed payouts by 80%.
+Mentored 3 junior developers and introduced code review guidelines.
+
+Software Engineer, Zoho Corporation, Chennai - Jul 2019 to Feb 2022
+Built REST APIs in Django for the invoicing product used by 50,000 businesses.
+Migrated a monolithic reporting module to Go microservices, improving report generation time from 90 seconds to 12 seconds.
+Wrote the integration test suite with pytest that raised coverage from 45% to 85%.
+
+Software Engineering Intern, Freshworks, Chennai - Jan 2019 to Jun 2019
+Developed internal dashboards in React and automated release notes with Python scripts.
+
+Projects
+Smart Inventory Assistant - a chatbot built with LangGraph and FastAPI that answers stock questions from a PostgreSQL warehouse database using natural language.
+Open Source Rate Limiter - a Redis based sliding-window rate limiting library for Python with 600 GitHub stars.
+Expense Tracker - a Flutter and Firebase mobile app for splitting group expenses, published on the Play Store with 10,000 downloads.
+
+Education
+M.Tech in Computer Science, Indian Institute of Technology Madras, 2017 to 2019 (CGPA 8.9)
+B.E. in Information Technology, Anna University, 2013 to 2017 (First Class with Distinction)
+
+Certifications
+AWS Certified Developer - Associate, 2023
+HashiCorp Certified Terraform Associate, 2022
+
+Achievements
+Winner of the Smart India Hackathon 2018 (software edition).
+Spoke at PyCon India 2023 on scaling Django services.

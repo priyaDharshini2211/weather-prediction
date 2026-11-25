@@ -1,0 +1,15 @@
+Django>=5.0,<5.2
+djangorestframework>=3.15
+django-cors-headers>=4.4
+psycopg[binary]>=3.2
+dj-database-url>=2.2
+python-dotenv>=1.0
+requests>=2.32
+openai>=1.40
+pypdf>=4.3
+langgraph>=0.2
+ddgs>=9.0
+pytest>=8.3
+pytest-django>=4.9
+numpy>=1.26
+fastembed>=0.4
